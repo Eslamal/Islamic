@@ -1,3 +1,3 @@
 Islamic app 
 Read Quran And Azkar 
-mvc , json , recyclerView , SplashScreen
+Using mvc , json , recyclerView , SplashScreen
