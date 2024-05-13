@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Islamic</string>
+    <string name="button_quran">Quran</string>
+    <string name="button_athkar">Azkar</string>
+    <string name="azkar_alsabah">Azkar Al-Sabah</string>
+    <string name="azkar_almasaa">Azkar Al-Massa</string>
+    <string name="azkar_afterPraying">Post Prayer Azkar</string>
+    <string name="repeat">Repeat</string>
+
+</resources>
